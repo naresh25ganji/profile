@@ -26,9 +26,9 @@ const Header = () => (
           Naresh Ganji
     </Link>
         <ul style={{ listStyle: 'none', float: 'right' }}>
-          <li style={{ display: 'inline-block', marginRight: '1rem' }}><Link style={{ color: 'white', textDecoration: 'none', fontSize: 'x-large' }} to="/">Profile</Link></li>
-          <li style={{ display: 'inline-block', marginRight: '1rem' }}><Link style={{ color: 'white', textDecoration: 'none', fontSize: 'x-large' }} to="/projects">Projects</Link></li>
-          <li style={{ display: 'inline-block', marginRight: '1rem' }}><Link style={{ color: 'white', textDecoration: 'none', fontSize: 'x-large' }} to="/blog">Blog</Link></li>
+          <li style={{ display: 'inline-block', marginRight: '1rem' }}><Link style={{ color: 'white', textDecoration: 'none', fontSize: 'x-large' }} to="/profile/">Profile</Link></li>
+          <li style={{ display: 'inline-block', marginRight: '1rem' }}><Link style={{ color: 'white', textDecoration: 'none', fontSize: 'x-large' }} to="/projects/">Projects</Link></li>
+          <li style={{ display: 'inline-block', marginRight: '1rem' }}><Link style={{ color: 'white', textDecoration: 'none', fontSize: 'x-large' }} to="/blog/">Blog</Link></li>
         </ul>
       </h1>
     </div >
