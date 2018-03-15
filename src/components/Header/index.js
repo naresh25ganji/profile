@@ -17,7 +17,7 @@ const Header = () => (
     >
       <h1 style={{ margin: 0 }}>
         <Link
-          to="/"
+          to="/profile"
           style={{
             color: 'white',
             textDecoration: 'none',
