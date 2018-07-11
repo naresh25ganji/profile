@@ -5,7 +5,8 @@ import { styles } from './indexStyle';
 
 const Home = () => (
   <div >
-    <div className={css(styles.header)}>Full Stack Developer with 4+ years of experience in delivering high quality code to
+    <div className={css(styles.header)}>
+    Full Stack Developer with 4+ years of experience in delivering high quality code to
       production at scale. An enthusiastic team player who is passionate about solving challenging
        problems that have a huge impact on customers.
        </div>

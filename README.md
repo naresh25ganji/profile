@@ -17,10 +17,8 @@ gatsby new gatsby-example-site
 
 Then you can run it by:
 ```sh
-cd gatsby-example-site
+cd profile
 npm run develop
 ```
 
-## Deploy
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
+run npm run build. Preview changes in your GitHub page https://naresh25ganji.github.io/profile/
